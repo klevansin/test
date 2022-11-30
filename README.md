@@ -1,3 +1,10 @@
-# test
-test
-proverka
+# Команды git
+
+1. git pull origin main  - скачать с github
+... изменили проект
+2. git add . -  индексируем (предварительно сохраняем)
+3. git commit -m "краткий комментарий"  - коммит, конечная фиксация
+4. git push origin main - отправка кода на github
+
+...
+5. git status - посмотреть текущий статус проекта
